@@ -2,3 +2,5 @@ cd -> change directory
 ls -> lista arquivos
 pwd -> mostra o diretório de trabalho
 rm - rf -> apaga subpastas
+cat -> exibe conteúdo o arquivo
+rm -> remove arquivo ou diretorio
