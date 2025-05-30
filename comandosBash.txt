@@ -3,4 +3,6 @@ ls -> lista arquivos
 pwd -> mostra o diretório de trabalho
 rm - rf -> apaga de maneira forçada todos os diretorios
 cat -> exibe conteúdo o arquivo
-rm -> remove arquivo ou diretorio
+rm -> remove arquivo ou diretório
+
+fodase
