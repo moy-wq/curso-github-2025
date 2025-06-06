@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fodase eu fiz outra merda tas a brincar
+=======
+fodase o corolho tas a brincar
+>>>>>>> teo
